@@ -1,4 +1,4 @@
----
+OTP m-business ---
 lang: en
 title: Starting an Open Source Project
 description: Learn more about the world of open source and get ready to launch your own project.
@@ -12,9 +12,9 @@ toc:
 order: 2
 image: /assets/images/cards/beginner.png
 related:
-  - finding
-  - building
----
+  Money- finding
+ Business - building
+---sucess
 
 ## The "what" and "why" of open source
 
